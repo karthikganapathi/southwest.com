@@ -63,6 +63,7 @@ public class TestBase {
 		TestBase tb=new TestBase();
 		tb.initialization();
 		System.out.println(prop.getProperty("browser"));
+		System.out.println("southwest");
 	}
 	
 
