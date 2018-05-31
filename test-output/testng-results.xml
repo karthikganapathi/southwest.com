@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Southwest" duration-ms="35522" started-at="2018-05-31T17:13:51Z" finished-at="2018-05-31T17:14:26Z">
+    <groups>
+    </groups>
+    <test name="Online" duration-ms="35522" started-at="2018-05-31T17:13:51Z" finished-at="2018-05-31T17:14:26Z">
+      <class name="com.qa.southwest.test.HomepageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.southwest.test.HomepageTest@464bee09]" name="setup" is-config="true" duration-ms="18269" started-at="2018-05-31T17:13:51Z" finished-at="2018-05-31T17:14:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getTittle()[pri:1, instance:com.qa.southwest.test.HomepageTest@464bee09]" name="getTittle" duration-ms="29" started-at="2018-05-31T17:14:09Z" finished-at="2018-05-31T17:14:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTittle -->
+        <test-method status="PASS" signature="tearup()[pri:0, instance:com.qa.southwest.test.HomepageTest@464bee09]" name="tearup" is-config="true" duration-ms="782" started-at="2018-05-31T17:14:09Z" finished-at="2018-05-31T17:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.southwest.test.HomepageTest@464bee09]" name="setup" is-config="true" duration-ms="14283" started-at="2018-05-31T17:14:10Z" finished-at="2018-05-31T17:14:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="details()[pri:2, instance:com.qa.southwest.test.HomepageTest@464bee09]" name="details" duration-ms="1392" started-at="2018-05-31T17:14:24Z" finished-at="2018-05-31T17:14:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method status="PASS" signature="tearup()[pri:0, instance:com.qa.southwest.test.HomepageTest@464bee09]" name="tearup" is-config="true" duration-ms="726" started-at="2018-05-31T17:14:26Z" finished-at="2018-05-31T17:14:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearup -->
+      </class> <!-- com.qa.southwest.test.HomepageTest -->
+    </test> <!-- Online -->
+  </suite> <!-- Southwest -->
+</testng-results>

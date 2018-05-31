@@ -1,0 +1,7 @@
+<suite name="Southwest">
+<test name="Online">
+<classes>
+<class name="com.qa.southwest.test.HomepageTest"></class>
+</classes>
+</test>
+</suite>

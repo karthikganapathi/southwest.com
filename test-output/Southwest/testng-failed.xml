@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Southwest]">
+  <test thread-count="5" name="Online(failed)">
+    <classes>
+      <class name="com.qa.southwest.test.HomepageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="details"/>
+          <include name="tearup"/>
+          <include name="getTittle"/>
+        </methods>
+      </class> <!-- com.qa.southwest.test.HomepageTest -->
+    </classes>
+  </test> <!-- Online(failed) -->
+</suite> <!-- Failed suite [Southwest] -->
